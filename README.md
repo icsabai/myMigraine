@@ -31,4 +31,6 @@ Then, recently I have read a paper about a large statistical correlation analysi
 
 Shortly after I read another paper which brought the enlightment. I a recent paper titled [Headache Disorders May Be a Risk Factor for the Development of New Onset Hypothyroidism](http://onlinelibrary.wiley.com/doi/10.1111/head.12943/abstract;jsessionid=EC098B545362B57F8281B1C7103E4F12.f01t03) researchers find association between migraines and low level of thyroid hormones. Though they investigate the other way, headache disorders are a risk factor for the development of new onset hypothyroidism, this is still a correlation.
 
-From this my conjecture comes trivially. As we know, regular diet does not always contain enough iodine that is needed for the production of thyroid hormone. In several countries, including Hungary where I live, iodine is added to salt. As fearing heart attack I do not consume salt, I do not get enough iodine, I have low level of thyroid hormones that induce headaches.
+From this my conjecture comes trivially. As we know, regular diet does not always contain enough iodine that is needed for the production of thyroid hormone. In several countries, including Hungary where I live, iodine is added to salt. Fearing heart attack -> I do not consume salt -> I do not get enough iodine -> I have low level of thyroid hormones -> that induce headaches.
+
+
