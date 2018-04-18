@@ -6,3 +6,5 @@
 ### CGRP
 - https://en.wikipedia.org/wiki/Calcitonin_gene-related_peptide : _Increased levels of CGRP have been reported in migraine and temporomandibular joint disorder patients as well as a variety of other diseases such as cardiac failure, hypertension, and sepsis._
 - https://fertilitypedia.org/edu/biological-control/thyroid-hormones : _Thyroid hormones are hormones that are produced by the thyroid gland. These hormones include thyroxine (T4), triiodothyronine (T3) and calcitonin._
+
+- https://www.independent.co.uk/news/health/migraine-drug-treatment-trial-erenumab-aimovig-novartis-a8309121.html : 2018.04.18 Novarits' erenumab.  _Participants had nine migraines a month, on average, but after receiving the drug more than a third saw this number fall by half. The drug works by targeting and blocking a pain-signalling molecule in the brain called calcitonin gene-related peptide (CGRP)._
