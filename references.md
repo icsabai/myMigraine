@@ -8,3 +8,6 @@
 - https://fertilitypedia.org/edu/biological-control/thyroid-hormones : _Thyroid hormones are hormones that are produced by the thyroid gland. These hormones include thyroxine (T4), triiodothyronine (T3) and calcitonin._
 
 - https://www.independent.co.uk/news/health/migraine-drug-treatment-trial-erenumab-aimovig-novartis-a8309121.html : 2018.04.18 Novarits' erenumab.  _Participants had nine migraines a month, on average, but after receiving the drug more than a third saw this number fall by half. The drug works by targeting and blocking a pain-signalling molecule in the brain called calcitonin gene-related peptide (CGRP)._
+
+### TRPM8 cold receptor
+- https://www.newscientist.com/article/mg23831773-800-people-adapted-to-the-cold-and-got-more-migraines-as-a-result/ links to [Key FM, Abdul-Aziz MA, Mundry R, Peter BM, Sekar A, D’Amato M, et al. (2018) Human local adaptation of the TRPM8 cold receptor along a latitudinal cline. PLoS Genet 14(5): e1007298. https://doi.org/10.1371/journal.pgen.1007298](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007298)
