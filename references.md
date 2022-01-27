@@ -10,6 +10,12 @@
 
 - https://www.independent.co.uk/news/health/migraine-drug-treatment-trial-erenumab-aimovig-novartis-a8309121.html : 2018.04.18 Novarits' erenumab.  _Participants had nine migraines a month, on average, but after receiving the drug more than a third saw this number fall by half. The drug works by targeting and blocking a pain-signalling molecule in the brain called calcitonin gene-related peptide (CGRP)._
 
+- New Scientist summary 2022: https://www.newscientist.com/article/mg25333713-100-we-are-finally-beginning-to-understand-migraines-and-how-to-treat-them 
+    -  Mostly about CGRP, trigeminal nerve. Mentions some FDA approved drug [gepants](https://headachejournal.onlinelibrary.wiley.com/doi/full/10.1111/head.13791). 
+    -  Cites:  Moskowitz, M.A., 1993. Neurogenic inflammation in the pathophysiology and treatment of migraine. NEUROLOGY-MINNEAPOLIS-, 43, pp.16-16. [link](https://pubmed.ncbi.nlm.nih.gov/8389008/)
+    - Close, L.N., Eftekhari, S., Wang, M., Charles, A.C. and Russo, A.F., 2019. Cortical spreading depression as a site of origin for migraine: Role of CGRP. Cephalalgia, 39(3), pp.428-434. [link](https://journals.sagepub.com/doi/full/10.1177/0333102418774299)
+    - They won [The Brain Prize 2021](https://lundbeckfonden.com/en/node/133)
+
 ### TRPM8 cold receptor
 - https://www.newscientist.com/article/mg23831773-800-people-adapted-to-the-cold-and-got-more-migraines-as-a-result/ links to Key FM, Abdul-Aziz MA, Mundry R, Peter BM, Sekar A, D’Amato M, et al. (2018) _Human local adaptation of the TRPM8 cold receptor along a latitudinal cline._ PLoS Genet 14(5): e1007298. https://doi.org/10.1371/journal.pgen.1007298 [link](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007298)
     - _" We infer strong positive selection, in agreement with ancient DNA showing high frequency of the allele in Europe 3,000 to 8,000 years ago. rs10166942 is important phenotypically because its ancestral allele is protective of migraine."_
